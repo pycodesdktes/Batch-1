@@ -1,0 +1,26 @@
+ Description:-
+The project was developed by :
+1] Aditi Bhabire
+2] Rutuja Bhagate
+3] Shraddha Dayama
+
+    The YouTube Video Downloader Using Python is developed
+using Python Tkinter; This YouTube Downloader Python is an
+application to download recording videos from YouTube. This
+gives clients/users to download recording videos they need in
+their gadgets and watch them when they have not internet
+connection.
+
+    In this python project YouTube Downloader Python, user has
+to copy the YouTube video URL that they want to download and
+simply paste that URL in the ‘paste link here’ section and click on
+the download button; it will start downloading the video. When
+video downloading finishes, it shows a message ‘downloaded’
+popup on the window below the download button.
+
+ Libraries Installed:-
+To implement this project we use basic concept of python,
+tkinter, pytube library.
+ Tkinter is a standard GUI library and it is one of the easiest ways to
+build a GUI application.
+ pytube used for downloading videos from YouTube

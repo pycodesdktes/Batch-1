@@ -1,0 +1,37 @@
+Project Description
+“ONLINE VOTING SYSTEM”
+
+Project Members: Arati Anandrao Chavan[19UET008]
+Prajakta Sanjay Indulkar[19UET014]
+Shweta Mahendra Khot[19UET016]
+
+The Project describes model of “Online Voting System using Python”
+which basically does taking votes from voters, counting of votes, declaring of
+result.
+Firstly, with the help of dictionary names of candidates displayed on
+the screen. The dictionary contains keys (names of candidates) and values (I’d
+of candidates). Then we created a list containing I’d of voters. With the help of
+I’d, voter can vote the candidates. Three variable names are created to count
+the votes of candidates.
+Main part of source code is while loop. While loop is used to count
+the votes and display the result. If voter gave the vote already and still trying to
+vote twice, then system displayed message that, “You already voted”.
+Otherwise, voter have to enter their voting I’d and vote to any one candidate.
+After every vote, “Thanks for voting will be displayed on screen. All votes are
+counted for each candidate separately.
+After completion of voting, “Voting is over” displayed on screen.
+Then results are counted. We took here 3 candidates. If 1
+
+st candidate has
+
+maximum number of votes, then 1st candidate wins. If 2
+
+nd candidate has
+
+maximum number of votes, then 2nd candidate wins. If 3
+
+rd candidate has
+
+maximum number of votes, then 3
+
+rd candidate wins.

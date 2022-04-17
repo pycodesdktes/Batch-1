@@ -1,0 +1,21 @@
+MUSIC PLAYER USING PYTHON
+
+Anuja Mali 19UET020
+Fiza Bagwan 19UET005
+Muskan Jamkhane 19UELO23
+
+DESCRIPTION:-
+
+To build an Music player using Python programming language
+to be able to play and listen to songs.
+
+Determine the functionalities of the Music player.
+
+The player should be have a simple and easy to use GUI with
+options for various functions, display screen to display the entire
+playlist and buttons.
+
+The player should be able to play any song
+
+It should provide the user with option to
+pause,unpause,play,stop the song.
